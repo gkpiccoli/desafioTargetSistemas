@@ -49,7 +49,7 @@ public class QuestaoDois {
          * Verifica se um número pertence à sequência de Fibonacci.
          *
          * @param num O número a ser verificado.
-         * @return true se o número pertence à sequência de Fibonacci, false caso contrário.
+         * @return true se o número pertence à sequência de Fibonacci, será false caso contrário.
          */
         public boolean isMemberOfFibonacciSequence(long num) {
             if (num < 0 || num > MAX_FIBONACCI_NUMBER) {
