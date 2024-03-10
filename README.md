@@ -9,7 +9,7 @@ Este repositório contém a solução para o desafio proposto pela Target Sistem
 
 ## Estrutura do Projeto
 
-desafio-target-sistemas
+```desafio-target-sistemas
 ├── app
 │   └── src
 │       └── main
