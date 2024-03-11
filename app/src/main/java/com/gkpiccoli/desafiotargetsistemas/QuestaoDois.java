@@ -30,13 +30,7 @@ public class QuestaoDois {
         }
     }
 
-    /**
-     * Obtém uma entrada de número inteiro válida do usuário.
-     *
-     * @param scanner O objeto Scanner para ler a entrada do usuário.
-     * @return O número inteiro válido inserido pelo usuário.
-     * @throws InputMismatchException Se a entrada não for um número inteiro válido.
-     */
+
     private static long getValidLongInput(Scanner scanner) throws InputMismatchException {
         return scanner.nextLong();
     }
